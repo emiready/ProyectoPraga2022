@@ -58,7 +58,7 @@ const Contact = () => {
                                     <textarea type="text" className="ta-contact" rows="4"></textarea>
                                 </div>
                                 <div className="col-lg-12">
-                                    <button className="btn-contact">Send Message</button>
+                                    <button className="btn-contact">Enviar Mensaje</button>
                                 </div>
                             </div>
                         </div>
